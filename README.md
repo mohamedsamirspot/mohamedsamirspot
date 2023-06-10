@@ -7,6 +7,14 @@
 
 ## 💻 Languages and Tools:
 <p align="left">
+     <a href="#" target="_blank" rel="noreferrer"  title=".net">
+      <img
+        src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"
+        alt="bash"
+        width="40"
+        height="40"
+      />
+    </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"  title="AWS">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
