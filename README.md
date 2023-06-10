@@ -7,7 +7,7 @@
 
 ## 💻 Languages and Tools:
 <p align="left">
-     <a href="#" target="_blank" rel="noreferrer"  title=".net">
+     <a href="#" target="_blank" rel="noreferrer"  title="Dotnet">
       <img
         src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"
         alt="bash"
