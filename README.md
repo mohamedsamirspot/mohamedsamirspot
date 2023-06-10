@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me (mohamedsamirspot@gmail.com)
 ## 💻 Languages and Tools:
+<p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"  title="AWS">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
