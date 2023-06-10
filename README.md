@@ -2,6 +2,9 @@
 - 👀 I’m interested in programming and learn new technologies
 - 🌱 I’m currently learning DevOps
 - 📫 How to reach me (mohamedsamirspot@gmail.com)
+
+[![LinkedIn](https://github.com/omarmfathy219/omarmfathy219/blob/master/linkedin.png)](https://www.linkedin.com/in/mohamed-samir-b433a216b/)
+
 ## 💻 Languages and Tools:
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"  title="AWS">
