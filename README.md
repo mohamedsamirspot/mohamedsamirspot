@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedsamirspot
 - 👀 I’m interested in programming and learn new technologies
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m Working as a DevOps Engineer at Paymob
 - 📫 How to reach me (mohamedsamirspot@gmail.com)
 
 [![LinkedIn](https://github.com/omarmfathy219/omarmfathy219/blob/master/linkedin.png)](https://www.linkedin.com/in/mohamed-samir-b433a216b/)
